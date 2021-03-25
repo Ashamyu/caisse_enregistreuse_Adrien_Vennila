@@ -104,6 +104,8 @@ int calcule_monnaie()
 	
 	rendu= (int)la_difference/0.05;
 	printf("%d piece(s) de 5 SOUS\n ", rendu);
+printf("*****************************************************")
+
 }
 
     
